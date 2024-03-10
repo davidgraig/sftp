@@ -20,3 +20,6 @@ ChrootDirectory %h
 
 # Enable this for more logs
 #LogLevel VERBOSE
+
+# use Internal port
+Port 2222
