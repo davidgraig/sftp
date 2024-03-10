@@ -23,3 +23,7 @@ ChrootDirectory %h
 
 # use Internal port
 Port 2222
+
+# No Password, use Key File
+PasswordAuthentication no
+PubkeyAuthentication yes
