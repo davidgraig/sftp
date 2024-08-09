@@ -27,3 +27,6 @@ Port 2222
 # No Password, use Key File
 PasswordAuthentication no
 PubkeyAuthentication yes
+
+# Turn off compression
+Compression no
